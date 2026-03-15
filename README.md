@@ -264,7 +264,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213416.png)
+![image alt](https://github.com/MohanKrishnaJ/DL-Transfer-Learning/blob/c03b01d61b7bd3e873eda96eaf8d54715e61e8a9/Screenshot%202026-03-16%20014631.png)
 
 ## Confusion Matrix
 
