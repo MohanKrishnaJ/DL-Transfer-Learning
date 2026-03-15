@@ -272,7 +272,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Classification Report
 
-![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213439.png)
+![image alt](https://github.com/MohanKrishnaJ/DL-Transfer-Learning/blob/49638307bcc82b5a7be633307d097ed791de8b12/Screenshot%202026-03-16%20015026.png)
 
 ### New Sample Data Prediction
 ![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213450.png)
