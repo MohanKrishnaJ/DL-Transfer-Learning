@@ -217,7 +217,7 @@ def test_model(model, test_loader):
     plt.show()
 
     # Print classification report
-    print("Name:MIHAN KRISHNA J")
+    print("Name:MOHAN KRISHNA J")
     print("Register Number:212223220060")
     print("Classification Report:")
     print(classification_report(all_labels, all_preds, target_names=train_dataset.classes))
