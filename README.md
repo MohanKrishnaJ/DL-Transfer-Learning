@@ -268,7 +268,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Confusion Matrix
 
-![image alt](https://github.com/SajenMurali/DL-Transfer-Learning/blob/d8a7b79233ef11741e3475aba2b864b3a2f1c0d5/Screenshot%202026-03-15%20213429.png)
+![image alt](https://github.com/MohanKrishnaJ/DL-Transfer-Learning/blob/ff8cd4584aa816f13927a1bb06ed4248d24cb458/Screenshot%202026-03-16%20014851.png)
 
 ## Classification Report
 
